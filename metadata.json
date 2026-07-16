@@ -1,6 +1,0 @@
-{
-  "name": "Logic Gates Learning Portal",
-  "description": "An interactive educational portal for students to learn, simulate, and practice digital logic gates and circuit design.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
